@@ -7,9 +7,8 @@
 
 ---
 
-<h>
-Adam Bartout
-</h>
+<h1>Adam Bartout</h1>
+
 <p>
 this is a paragraph
 </p>
