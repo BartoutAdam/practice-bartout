@@ -9,7 +9,14 @@
 
 ## Adam Bartout
 
+-**Favourite movies by Jason Statahm**
+
 1. The transporter
 2. Crank 
 3. The Italian Job
 
+-**Favourite songs**
+
+- "Passionfruit"
+- "We Are One (Ole Ola)"
+- "Waka Waka"
