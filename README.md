@@ -21,4 +21,17 @@
 - "We Are One (Ole Ola)"
 - "Waka Waka"
 
+
 Click here to know what my favourite city is: [My Favourite City](MyCity.md)
+
+---
+
+## Jokes from People I Know
+
+A couple of jokes that people in my life always say.
+**Connor**, my coworker, always says:
+> Yk what they say, you get paid by the hour not the job.
+**Dau**, my friend, always says:
+> I don't skip leg day, I skip everything, it's called nap time.
+
+---
